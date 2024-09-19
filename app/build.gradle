@@ -89,7 +89,7 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
     testImplementation 'androidx.arch.core:core-testing:2.1.0'
 
-    implementation 'com.google.android:flexbox:1.1.0'
+    implementation 'com.google.android.flexbox:flexbox:3.0.0'
 
     // Resources here https://github.com/ApmeM/android-flowlayout
     implementation 'de.cketti.library.changelog:ckchangelog:1.2.2' // Library to display a changelog on first run
